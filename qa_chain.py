@@ -9,9 +9,6 @@ def get_qa_chain():
     from langchain.chains import RetrievalQA
     from langchain.embeddings import GPT4AllEmbeddings
 
-    # GPT4ALL_MODEL_NAME='ggml-gpt4all-j-v1.3-groovy.bin'
-    # GPT4ALL_MODEL_NAME='all-MiniLM-L6-v2-f16.gguf'
-    # GPT4ALL_MODEL_NAME='orca-mini-3b-gguf2-q4_0.gguf'
     GPT4ALL_MODEL_NAME='mistral-7b-instruct-v0.1.Q4_0.gguf'
     GPT4ALL_MODEL_FOLDER_PATH='GPT4All_models'
     GPT4ALL_BACKEND='llama'
