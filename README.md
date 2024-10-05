@@ -27,9 +27,9 @@
 
 ## Results:
 
-![Screenshot (908)]()
+![Screenshot (908)](https://github.com/MrVaibhavChamp/Automated-Stock-Analysis-and-Interaction/blob/main/Assets/328641088-13a9c01f-0943-49c6-b042-7a5c1600458d.png)
 
-![Screenshot (909)]()
+![Screenshot (909)](https://github.com/MrVaibhavChamp/Automated-Stock-Analysis-and-Interaction/blob/main/Assets/328641192-4dbf2b34-b36e-4c15-9f6e-7bce8f81c823.png)
 
 
 
